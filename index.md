@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Madeleine Mae Phillips
 
 You can use the [editor on GitHub](https://github.com/phillips848676/Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
