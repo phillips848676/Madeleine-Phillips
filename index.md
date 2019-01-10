@@ -1,6 +1,6 @@
 <html>
 <head>
- <script>
+ <script type ="text/javascript">
   function showAlert() {
     alert ("Hello world!");
   }
