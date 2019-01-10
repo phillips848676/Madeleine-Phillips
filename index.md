@@ -3,7 +3,7 @@
  <body>
    
   <script type="text/javascript">
-
+document.body.style.backgroundColor = "red";
 
 function updateClock ( )
 {
@@ -32,7 +32,7 @@ function updateClock ( )
   // Update the time display
   document.getElementById("clock").firstChild.nodeValue = currentTimeString;
 }
-
+<body onload="updateClock(); setInterval('updateClock()', 1000 )">
 
 </script>
 </body>
