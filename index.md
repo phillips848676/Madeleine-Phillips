@@ -1,4 +1,4 @@
-```
+
 <html>
 <head>
 <script>
@@ -27,4 +27,4 @@ function checkTime(i) {
 
 </body>
 </html>
-```
+
