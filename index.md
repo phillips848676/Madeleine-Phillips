@@ -2,6 +2,7 @@
 <html>
 <head>
 <script>
+document.body.style.backgroundColor = "red";
 function startTime() {
   var today = new Date();
   var h = today.getHours();
