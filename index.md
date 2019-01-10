@@ -3,7 +3,7 @@
  <body>
    
   <script type="text/javascript">
-<!--
+
 
 function updateClock ( )
 {
@@ -33,7 +33,7 @@ function updateClock ( )
   document.getElementById("clock").firstChild.nodeValue = currentTimeString;
 }
 
-// -->
+
 </script>
 </body>
 </html>
