@@ -2,7 +2,7 @@
 <html>
 <head>
 <script>
-document.body.style.backgroundColor = "red";
+document.body.style.backgroundColor = "light blue";
 function startTime() {
   var today = new Date();
   var h = today.getHours();
@@ -23,7 +23,7 @@ function checkTime(i) {
 
 <body onload="startTime()">
 
-<div id="txt"></div>
+<div id="<h1>txt</h1>"></div>
 
 </body>
 </html>
