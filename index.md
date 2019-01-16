@@ -2,11 +2,6 @@
 
 <html>
 <body>
- <h1> my javascript </h1>
- <button type = "button"
-         onclick = "document.getElementByID('demo').innerHTML = Date()">
-  BUTTON.</button>
-  <p id = "demo"> </p>
-
+ <h1> Madeleine Mae Phillips </h1>
  </body>
  </html>
